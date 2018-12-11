@@ -52,7 +52,7 @@ This semester, the lab sessions will feature the inverse curricula pioneered by 
 | 12 | 11/20 | **Lec9**  VAE, Structured Output Prediction [Slides](https://github.com/joanbruna/ir18/blob/master/slides/lecture9.pdf)|  | [PS6](https://github.com/joanbruna/ir17/tree/master/hw/ps6/), due 12/8  |
 | 13 | 11/27 | **Lec10** Structured Output Prediction (cont'd), EP, Unrolling inference with Neural Networks [Slides](https://github.com/joanbruna/ir18/blob/master/slides/lecture10.pdf) | references in slides, [Expectation-Propagation Notes](http://www.mit.edu/~6.454/www_fall_2002/esuddert/ep_summary.pdf) |  |
 | 14 | 12/4  | **Lec11** Deep Generative Models (1/2): Implicit Modeling [Slides](https://github.com/joanbruna/ir18/blob/master/slides/lecture11.pdf)  | [Geometrical Insights for Implicit Modeling, Bottou et al.](https://arxiv.org/pdf/1712.07822.pdf) and references in slides | [Project writeup](https://github.com/joanbruna/ir17/blob/master/hw/project_writeup.pdf), due 12/19. |
-| 15 | 12/11 | **Lec12** Deep Generative Models (2/2): Auto-regressive models. Open Problems  | | |
+| 15 | 12/11 | **Lec12** Deep Generative Models (2/2): Auto-regressive models. Open Problems [Slides](https://github.com/joanbruna/ir18/blob/master/slides/lecture12.pdf) | | |
 | 16 | 12/18 | **Final Day**  Poster Presentations of Final Projects <br /><br /> <b>Location: Center for Data Science, 60 5th ave, in the 7th floor open space</b> | | |
 
 
